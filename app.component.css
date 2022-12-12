@@ -1,0 +1,40 @@
+.example-icon {
+    right: 45.52px;
+    top: 19px;
+    width: 14.48px;
+    height: 17.15px;
+    position: absolute;
+}
+
+.mat-toolbar {
+    background-color: #ff6c00;
+    color: white;
+    height: 27px;
+    width: 100;
+}
+
+.title {
+    margin: 49px 0 55px 8px;
+    font-family: "Montserrat", "SemiBold";
+    
+    font-size: 18px;
+}
+.sub-title {
+    font-size: 8px;
+    margin-top: -28px;
+    margin-left: 33px;
+    font-family: "Montserrat", "SemiBold";
+    
+}
+.arrow {
+    width: 30px;
+    height: 30px;
+    margin: 8px 0 7px -6px;
+}
+.menu-icon{
+    height:16.61px;
+    width:13px;
+  position: absolute;
+  right:16px;
+  top: 18px;
+}
